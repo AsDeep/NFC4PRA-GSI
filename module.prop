@@ -1,0 +1,7 @@
+id=NFC4PRA-GSI
+name=NFC4PRA-GSI
+version=v1.0
+versionCode=10
+author=ponces
+description=NFC4PRA-GSI
+minMagisk=1500
