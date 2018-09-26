@@ -4,4 +4,4 @@ version=v2.0
 versionCode=20
 author=ponces
 description=NFC4PRA-GSI
-minMagisk=1500
+minMagisk=17000
