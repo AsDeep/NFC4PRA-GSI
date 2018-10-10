@@ -1,7 +1,7 @@
 id=NFC4PRA-GSI
 name=NFC4PRA-GSI
-version=v2.0
-versionCode=20
+version=v3.0
+versionCode=30
 author=ponces
 description=NFC4PRA-GSI
 minMagisk=17000

@@ -9,6 +9,8 @@ It's tested on Huawei P8 Lite 2017 (Kirin 655) while running phhusson's AOSP.
  - If boot fails again, please provide device and Magisk logs.
 
 ## Changelog
+- v3.0
+  - Removed unnecessary libs
 - v2.0
   - Bump to Pie (9.0)
 - v1.0
