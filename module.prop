@@ -4,4 +4,6 @@ version=v3.0
 versionCode=30
 author=ponces
 description=NFC4PRA-GSI
+support=https://forum.xda-developers.com/p8lite/p8-lite-2017-development/flashable-nfc-kirin655-devices-t3811916
 minMagisk=17000
+donate=https://www.paypal.me/aponces
