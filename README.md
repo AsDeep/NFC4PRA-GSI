@@ -19,9 +19,9 @@ It's tested on Huawei P8 Lite 2017 (Kirin 655) while running phhusson's AOSP.
 ## Credits
 - [topjohnwu](https://forum.xda-developers.com/member.php?u=4470081) for Magisk and its module template
 - [Darkest-Dark](https://forum.xda-developers.com/member.php?u=9044321) for his Magisk Module that inspired this work
-- [Dil3mm4](https://forum.xda-developers.com/member.php?u=9034316) for his version of LineageOS where the v1 files belonged to
-- [haky86](https://forum.xda-developers.com/member.php?u=4883214) for his version of AOSiP where the v2 files belonged to
-- [kountry83](https://forum.xda-developers.com/member.php?u=3756725) for his Pie NFC fix and where the v3 files belong to
+- [Dil3mm4](https://forum.xda-developers.com/member.php?u=9034316) for his version of LineageOS where the initial v1 files belonged to
+- [haky86](https://forum.xda-developers.com/member.php?u=4883214) for his version of AOSiP where the current v1 files belong to
+- [kountry83](https://forum.xda-developers.com/member.php?u=3756725) for his Pie NFC fix and where the v2 and v3 files belong to
 
 ## Links
 - [XDA Forum Thread](https://forum.xda-developers.com/p8lite/p8-lite-2017-development/flashable-nfc-kirin655-devices-t3811916)
