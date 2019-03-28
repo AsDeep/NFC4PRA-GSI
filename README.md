@@ -5,6 +5,8 @@ All you need to get NFC on GSI ROM's for Kirin 655 devices.
 It's tested on Huawei P8 Lite 2017 (Kirin 655) while running phhusson's AOSP.
 
 ## Changelog
+- v3.2
+  - Updated Magisk module structure
 - v3.1
   - Updated libs
 - v3.0
