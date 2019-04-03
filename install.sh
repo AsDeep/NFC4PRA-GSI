@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "     NFC for PRA-LX1 on GSI    "
   ui_print "*******************************"
 }
 
